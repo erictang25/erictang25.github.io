@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Carnegie Mellon University, 
 
-Work experience
+* Cornell University, College of Engineering, Ithaca, NY
+  Bachelor of Science, Electrical and Computer Engineering
+  Minor: Computer Science, Dean's List (all semesters)
+  GPA: 3.88
+
+Research Experience
 ======
-* Summer 2015: Research Assistant
+* Batten Research Group, Cornell University, Undergraduate Researcher
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git

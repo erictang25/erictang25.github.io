@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
 venue: "Cornell University, ECE"
-date: 
+date: 2019-08-29
 location: "Ithaca, USA"
 ---
 
