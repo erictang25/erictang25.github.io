@@ -8,7 +8,7 @@ date: 2019-08-29
 location: "Ithaca, USA"
 ---
 
-test
+Graded labs, problem sets and quizzes and held weekly office hours
 
 Course Description
 =====
