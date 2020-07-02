@@ -47,10 +47,10 @@ TEACHING
 **Teaching Assistant**, Computer Architecture  (ECE 4750)  
 * Graded labs, problem sets and quizzes and held weekly office hours
 
-**Eta Kappa Nu**
-* Led exam review session for Digital Logic and Computer Organization (ECE 2300)  
+**Eta Kappa Nu**, Digital Logic and Computer Organization (ECE 2300)
+* Led exam review session for over 20 students 
 
-**Academic Excellence Workshop Facillitator**, Cornell University, Multivariable Calculus  
+**Academic Excellence Workshop Facillitator**, Multivariable Calculus (MATH 1920)  
 *	Taught and created problem sets for a class of 15 students 
 
 Awards and Honors
@@ -61,7 +61,7 @@ Awards and Honors
 
 CAMPUS INVOLVEMENT
 ======
-**Resistance Racing**, Cornell University, Electrical Subteam Lead  
+**Resistance Racing**, Cornell University, Electrical Subteam Lead
 *	Designed and optimized an energy efficient BLDC motor controller using field-oriented control
 *	Designed, populated and tested a PCB for measuring power consumption (joulemeter) 
 *	Tested and integrated battery management system, power converters, data acquisition, motor controller and automation systems onto the vehicle
