@@ -13,17 +13,17 @@ Education
 ======
 * Carnegie Mellon University, 
 
-* Cornell University, College of Engineering, Ithaca, NY
-  Bachelor of Science, Electrical and Computer Engineering
-  Minor: Computer Science, Dean's List (all semesters)
+* **Cornell University**, College of Engineering, Ithaca, NY  
+  Bachelor of Science, Electrical and Computer Engineering  
+  Minor: Computer Science, Dean's List (all semesters)  
   GPA: 3.88
 
 Research Experience
 ======
-* Batten Research Group, Cornell University, Undergraduate Researcher
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Batten Research Group**, Cornell University, Undergraduate Researcher
+* Github University
+* Duties included: Tagging issues
+* Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
