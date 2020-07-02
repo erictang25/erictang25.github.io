@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Carnegie Mellon University, 
+**Carnegie Mellon University** 
 
-* **Cornell University**, College of Engineering, Ithaca, NY  
-  Bachelor of Science, Electrical and Computer Engineering  
-  Minor: Computer Science, Dean's List (all semesters)  
-  GPA: 3.88
+**Cornell University**, College of Engineering, Ithaca, NY  
+Bachelor of Science, Electrical and Computer Engineering  
+Minor: Computer Science, Dean's List (all semesters)  
+GPA: 3.88
 
 Research Experience
 ======
