@@ -23,22 +23,22 @@ GPA: 3.88
 
 Research Experience
 ======
-**Batten Research Group**, Cornell University, Undergraduate Researcher 
+**Batten Research Group**, Cornell University, *Undergraduate Researcher* 
 *	Created 3 stage pipelined blocking cache generator parametrized by size of cache lines and total size  
 *	Designed a custom energy and power characterization flow that utilizes Synopsys EDA tools (Primetime PX) to find performance metrics for custom ASIC designs  
 *	Ran preliminary tests and created breakout board for computer architecture test chip (BRGTC1)  
 
-**Computer Systems Laboratory**, Cornell University, Undergraduate Researcher
+**Computer Systems Laboratory**, Cornell University, *Undergraduate Researcher*
 * Experimented with various forms of gradient descent on a GPU to filter spam emails more quickly
 * Implemented stochastic gradient descent using multiple threads with asynchronous updates in C
 
 INDUSTRY EXPERIENCE
 =====
-**MITRE**, Bedford MA, Position Navigation and Timing Intern
+**MITRE**, Bedford MA, *Position Navigation and Timing Intern*
 *	Identified spoofing in GPS signals from data collected during field tests
 *	Created plots and maps to visualize various aspects of GPS signals
 
-**Draper Laboratory**, Cambridge MA, Undergraduate Engineering Intern	 
+**Draper Laboratory**, Cambridge MA, *Undergraduate Engineering Intern*	 
 *	Designed new test procedures and soldered custom test circuits to verify proper sensor functionality
 *	Automated tests utilizing oscilloscope, function generator, power sources and ammeters
 
@@ -61,7 +61,7 @@ Awards and Honors
 
 CAMPUS INVOLVEMENT
 ======
-**Resistance Racing**, Cornell University, Electrical Subteam Lead
+**Resistance Racing**, Cornell University, *Electrical Subteam Lead*
 *	Designed and optimized an energy efficient BLDC motor controller using field-oriented control
 *	Designed, populated and tested a PCB for measuring power consumption (joulemeter) 
 *	Tested and integrated battery management system, power converters, data acquisition, motor controller and automation systems onto the vehicle

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Eric Tang. I am currently an incoming ECE PhD student at Carnegie Mellon. I graduated from Cornell University in May 2020 with a major in Electrical and Computer Engineering and a minor in Computer Science. At Cornell, I worked with Professor Christopher Batten in the Batten Research Group (BRG). I will start my PhD in Pittsburgh at CMU in the fall. 
+Hi! My name is Eric Tang. I am currently an incoming ECE PhD student at Carnegie Mellon. I graduated from Cornell University in May 2020 with a major in Electrical and Computer Engineering and a minor in Computer Science. At Cornell, I worked with Professor Christopher Batten in the Batten Research Group (BRG). I will start my Ph.D. in Pittsburgh at CMU in the fall. 
 
 **Education**  
 Ph.D. in Electrical and Computer Engineering  
