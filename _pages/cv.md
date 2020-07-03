@@ -18,7 +18,7 @@ PhD, Electrical and Computer Engineering (Expected May 2026)
 
 **Cornell University**, College of Engineering, Ithaca, NY  
 Bachelor of Science, Electrical and Computer Engineering, Computer Science Minor   
-GPA: 3.88/4.30, Dean's List (all semesters), Magna Cum Laude (May 2020)
+Dean's List (all semesters), Magna Cum Laude (May 2020)
 
 *Relevant Courses*: Complex Digital ASIC Design • Distributed Computing • Computer Architecture • Large Scale Machine Learning • Digital Communication
 
