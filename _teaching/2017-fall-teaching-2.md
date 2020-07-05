@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-2
 venue: "Cornell University, College of Engineering"
-date: 2019-08-29
+date: 2017-08-29
 location: "Ithaca, USA"
 ---
 

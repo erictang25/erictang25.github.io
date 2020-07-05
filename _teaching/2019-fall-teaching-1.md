@@ -2,7 +2,7 @@
 title: "ECE 4750 Computer Architecture"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-fall-teaching-2
+permalink: /teaching/2019-fall-teaching-1
 venue: "Cornell University, College of Engineering"
 date: 2019-08-29
 location: "Ithaca, USA"
