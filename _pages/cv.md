@@ -70,6 +70,7 @@ CAMPUS INVOLVEMENT
 *	Designed, populated and tested a PCB for measuring power consumption (joulemeter) 
 *	Tested and integrated battery management system, power converters, data acquisition, motor controller and automation systems onto the vehicle
 
+**Cornell Maker Club**, Cornell University (Jun. 2018 - May 2020)  
 **Club Swimming**, Cornell University (Sep. 2016 - May 2017)
 
 
