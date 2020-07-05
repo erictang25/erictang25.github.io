@@ -2,7 +2,7 @@
 title: "MATH 1920 Multivariable Calculus for Engineers"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-fall-teaching-2
+permalink: /teaching/2017-fall-teaching
 venue: "Cornell University, College of Engineering"
 date: 2017-08-29
 location: "Ithaca, USA"

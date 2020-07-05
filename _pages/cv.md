@@ -58,9 +58,19 @@ PROFESSIONAL EXPERIENCE
 
 TEACHING
 =====
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Cornell University, College of Engineering
+[**Computer Architecture, ECE 4750**](../teaching/2019-fall-teaching) (Aug. 2019 - Dec. 2019)  
+*Teaching Assistant*
+* Graded labs, problem sets and quizzes
+* Held weekly office hours to assist on assignments or explain lecture topics
+
+**Digital Logic and Computer Organization, ECE 2300** (Apr. 2019)  
+* Led exam review session for over 20 students
+
+[**Multivariable Calculus, MATH 1920**](../teaching/2017-fall-teaching) (Aug. 2017 - Dec. 2017)  
+*Academic Excellence Workshop Facillitator*
+* Led Academic Excellence Workshop (AEW) where I created problem sets and solutions for a class of 15 students
+* Used active learning techniques during weekly lectures
 
 CAMPUS INVOLVEMENT
 ======
