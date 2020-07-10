@@ -14,7 +14,7 @@ redirect_from:
 EDUCATION
 ======
 **Carnegie Mellon University**, Carnegie Institute of Technology, Pittsburgh, PA  
-PhD, Electrical and Computer Engineering (Expected May 2026)
+PhD, Electrical and Computer Engineering (Expected Dec 2025)
 
 **Cornell University**, College of Engineering, Ithaca, NY  
 Bachelor of Science, Electrical and Computer Engineering, Computer Science Minor   
