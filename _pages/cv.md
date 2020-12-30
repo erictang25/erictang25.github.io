@@ -16,6 +16,8 @@ EDUCATION
 **Carnegie Mellon University**, Carnegie Institute of Technology, Pittsburgh, PA  
 PhD, Electrical and Computer Engineering (Expected Dec 2025)
 
+*Relevant Courses*: Digital IC Design • Reconfigurable Computing
+
 **Cornell University**, College of Engineering, Ithaca, NY  
 Bachelor of Science, Electrical and Computer Engineering, Computer Science Minor   
 Dean's List (all semesters), Magna Cum Laude (May 2020)
@@ -28,8 +30,8 @@ Dean's List (all semesters), Magna Cum Laude (May 2020)
 **Tau Beta Pi** (Nov. 2018) 
 
 ## SPECIALIZED SKILLS
-**Programming Languages**: Verilog, C, C++, MATLAB, Python, Java, PyMTL3  
-**Tools**: Git, Altium, Verilator, VCS, Primetime PX
+**Programming Languages**: Verilog, C, C++, MATLAB, Python, Java, TCL, PyMTL3  
+**Tools**: Git, Altium, Verilator, VCS, Primetime PX, Cadence Innovus, Cadence Virtuoso
 
 RESEARCH EXPERIENCE
 ======
