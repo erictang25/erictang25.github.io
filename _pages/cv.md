@@ -16,7 +16,7 @@ EDUCATION
 **Carnegie Mellon University**, Carnegie Institute of Technology, Pittsburgh, PA  
 PhD, Electrical and Computer Engineering (Expected Dec 2025)
 
-*Relevant Courses*: Digital IC Design • Reconfigurable Computing
+*Relevant Courses*: Modern Computer Architecture & Design • Digital IC Design • Reconfigurable Computing • How to Write Fast Code
 
 **Cornell University**, College of Engineering, Ithaca, NY  
 Bachelor of Science, Electrical and Computer Engineering, Computer Science Minor   
