@@ -1,7 +1,7 @@
 ---
-title: "ECE 645 How to Write Fast Code"
+title: "18-645 How to Write Fast Code"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2023-spring-teaching
 venue: "Carnegie Mellon University, College of Engineering"
 date: 2023-08-28
