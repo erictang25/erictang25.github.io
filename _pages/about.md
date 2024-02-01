@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Eric Tang. I am currently a 3<sup>rd</sup> year ECE PhD candidate at Carnegie Mellon University. I graduated from Cornell University in May 2020 with a major in Electrical and Computer Engineering and a minor in Computer Science. At Cornell, I worked with Professor Christopher Batten in the Batten Research Group (BRG). 
+Hi! My name is Eric Tang. I am currently a 4<sup>th</sup> year ECE PhD candidate at Carnegie Mellon University. I graduated from Cornell University in May 2020 with a major in Electrical and Computer Engineering and a minor in Computer Science. At Cornell, I worked with Professor Christopher Batten in the Batten Research Group (BRG). 
 
-I am currently working with Prof. Franz Franchetti at CMU and am involved in the [Crossroads FPGA](http://crossroadsfpga.org) group.
+I am currently coadvised by Prof. Franz Franchetti and Prof. James Hoe.
 
 **Education**  
 Ph.D. in Electrical and Computer Engineering  

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](../files/Eric_Tang_CV.pdf)
+[PDF](../files/Eric-Tang-CV.pdf)
 
 EDUCATION
 ======
